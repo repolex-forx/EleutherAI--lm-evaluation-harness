@@ -1,0 +1,11 @@
+{
+  "org": "EleutherAI",
+  "repo": "lm-evaluation-harness",
+  "versions": [
+    {
+      "commit": "d6de81643928d653435c431bae19945d41d32520",
+      "tag": "",
+      "parsed_at": "2026-10-17T14:54:17.711469+00:00"
+    }
+  ]
+}
