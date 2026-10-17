@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/EleutherAI/lm-evaluation-harness/commit/d6de81643928d653435c431bae19945d41d32520",
       "git:hexsha": "d6de81643928d653435c431bae19945d41d32520",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-17T14:54:17.710957+00:00"
     },
     {
       "@id": "https://repolex.ai/r/EleutherAI/lm-evaluation-harness/commit/72d39b7770ad03fca194fcf14a46e656f8c06004",
